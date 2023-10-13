@@ -21,7 +21,7 @@ const textElement = document.getElementById('text');
 
       if (window.innerWidth <= 768) {
         imageElement.style.width = '100%'; 
-        imageElement.style.height = '50%';
+        imageElement.style.height = '65%';
       } else {
         imageElement.style.width = '100%';
       }
