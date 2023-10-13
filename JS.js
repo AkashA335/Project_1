@@ -64,7 +64,7 @@ const textElement = document.getElementById('text');
     const textNodes = [
       {
         id: 1,
-        text: 'There once lived a man named Lee. Who comitted a crime and being taken to a prison now .',
+        text: 'There once lived a man named Lee. Who comitted a crime and being taken to the prison now .',
         image: './assets/1.png',
         options: [
           {
